@@ -13,7 +13,7 @@ Chef cookbooks
 ------------
 Expect that we use librarian to manage chef cookbooks
 
-*--> Add to *Cheffile* the following:*
+*--> Add to the Cheffile the following:*
     
     cookbook 'java'
     cookbook 'logstash', '~> 0.11.4'
